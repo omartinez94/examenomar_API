@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+ <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+ <PropertyGroup>
+ <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+ <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+ <ProductVersion>
+ </ProductVersion>
+ <SchemaVersion>2.0</SchemaVersion>
+ <ProjectGuid>{12BD72A4-42E8-427D-B94E-89F10BE694FD}</ProjectGuid>
+ <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+ <OutputType>Library</OutputType>
+ <AppDesignerFolder>Properties</AppDesignerFolder>
+ <RootNamespace>oAuth.WebApi</RootNamespace>
+ <AssemblyName>oAuth.WebApi</AssemblyName>
+ <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+ <UseIISExpress>true</UseIISExpress>
+ <IISExpressSSLPort />
+ <IISExpressAnonymousAuthentication />
+ <IISExpressWindowsAuthentication />
+ <IISExpressUseClassicPipelineMode />
+ <SccProjectName>SAK</SccProjectName>
+ <SccLocalPath>SAK</SccLocalPath>
+ <SccAuxPath>SAK</SccAuxPath>
+ <SccProvider>SAK</SccProvider>
+ <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+ <RestorePackages>true</RestorePackages>
+ </PropertyGroup>
+ <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+ <DebugSymbols>true</DebugSymbols>
+ <DebugType>full</DebugType>
+ <Optimize>false</Optimize>
+ <OutputPath>bin\</OutputPath>
+ <DefineConstants>DEBUG;TRACE</DefineConstants>
+ <ErrorReport>prompt</ErrorReport>
+ <WarningLevel>4</WarningLevel>
+ </PropertyGroup>
+ <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+ <DebugType>pdbonly</DebugType>
+ <Optimize>true</Optimize>
+ <OutputPath>bin\</OutputPath>
+ <DefineConstants>TRACE</DefineConstants>
+ <ErrorReport>prompt</ErrorReport>
+ <WarningLevel>4</WarningLevel>
+ </PropertyGroup>
+ <ItemGroup>
+ <Reference Include="Autofac, Version=3.5.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+ <SpecificVersion>False</SpecificVersion>
+ <HintPath>..\packages\Autofac.3.5.2\lib\portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\Autofac.dll</HintPath>
+ </Reference>
+ <Reference Include="Autofac.Configuration">
+ <HintPath>..\packages\Autofac.Configuration.3.3.0\lib\net40\Autofac.Configuration.dll</HintPath>
+ </Reference>
+ <Reference Include="Autofac.Integration.WebApi">
+ <HintPath>..\packages\Autofac.WebApi2.3.4.0\lib\net45\Autofac.Integration.WebApi.dll</HintPath>
+ </Reference>
+ <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+ <SpecificVersion>False</SpecificVersion>
+ <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+ </Reference>
+ <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+ <SpecificVersion>False</SpecificVersion>
+ <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+ </Reference>
+ <Reference Include="FirebaseNet">
+ <HintPath>..\..\..\..\Proyectos\Caintra\Caintrav1_0_4\Application\WebApi\oAuth.WebApi\bin\FirebaseNet.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.AspNet.Identity.Core">
+ <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.1.0\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.AspNet.Identity.EntityFramework">
+ <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.2.1.0\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.AspNet.Identity.Owin">
+ <HintPath>..\packages\Microsoft.AspNet.Identity.Owin.2.1.0\lib\net45\Microsoft.AspNet.Identity.Owin.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.CSharp" />
+ <Reference Include="Microsoft.Owin">
+ <HintPath>..\packages\Microsoft.Owin.3.0.0\lib\net45\Microsoft.Owin.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Owin.Cors, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+ <SpecificVersion>False</SpecificVersion>
+ <HintPath>..\packages\Microsoft.Owin.Cors.3.0.0\lib\net45\Microsoft.Owin.Cors.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Owin.Host.SystemWeb">
+ <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.3.0.0\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Owin.Security">
+ <HintPath>..\packages\Microsoft.Owin.Security.3.0.0\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Owin.Security.Cookies">
+ <HintPath>..\packages\Microsoft.Owin.Security.Cookies.3.0.0\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Owin.Security.Jwt">
+ <HintPath>..\packages\Microsoft.Owin.Security.Jwt.3.0.0\lib\net45\Microsoft.Owin.Security.Jwt.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Owin.Security.OAuth">
+ <HintPath>..\packages\Microsoft.Owin.Security.OAuth.3.0.0\lib\net45\Microsoft.Owin.Security.OAuth.dll</HintPath>
+ </Reference>
+ <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+ <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+ <Private>True</Private>
+ </Reference>
+ <Reference Include="Owin">
+ <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+ </Reference>
+ <Reference Include="PushSharp.Amazon, Version=4.0.10.0, Culture=neutral, PublicKeyToken=cf74b75eab2c0170, processorArchitecture=MSIL">
+ <HintPath>..\packages\PushSharp.4.0.10\lib\net45\PushSharp.Amazon.dll</HintPath>
+ <Private>True</Private>
+ </Reference>
+ <Reference Include="PushSharp.Apple, Version=4.0.10.0, Culture=neutral, PublicKeyToken=cf74b75eab2c0170, processorArchitecture=MSIL">
+ <HintPath>..\packages\PushSharp.4.0.10\lib\net45\PushSharp.Apple.dll</HintPath>
+ <Private>True</Private>
+ </Reference>
+ <Reference Include="PushSharp.Blackberry, Version=4.0.10.0, Culture=neutral, PublicKeyToken=cf74b75eab2c0170, processorArchitecture=MSIL">
+ <HintPath>..\packages\PushSharp.4.0.10\lib\net45\PushSharp.Blackberry.dll</HintPath>
+ <Private>True</Private>
+ </Reference>
+ <Reference Include="PushSharp.Core, Version=4.0.10.0, Culture=neutral, PublicKeyToken=cf74b75eab2c0170, processorArchitecture=MSIL">
+ <HintPath>..\packages\PushSharp.4.0.10\lib\net45\PushSharp.Core.dll</HintPath>
+ <Private>True</Private>
+ </Reference>
+ <Reference Include="PushSharp.Firefox, Version=4.0.10.0, Culture=neutral, PublicKeyToken=cf74b75eab2c0170, processorArchitecture=MSIL">
+ <HintPath>..\packages\PushSharp.4.0.10\lib\net45\PushSharp.Firefox.dll</HintPath>
+ <Private>True</Private>
+ </Reference>
+ <Reference Include="PushSharp.Google, Version=4.0.10.0, Culture=neutral, PublicKeyToken=cf74b75eab2c0170, processorArchitecture=MSIL">
+ <HintPath>..\packages\PushSharp.4.0.10\lib\net45\PushSharp.Google.dll</HintPath>
+ <Private>True</Private>
+ </Reference>
+ <Reference Include="PushSharp.Windows, Version=4.0.10.0, Culture=neutral, PublicKeyToken=cf74b75eab2c0170, processorArchitecture=MSIL">
+ <HintPath>..\packages\PushSharp.4.0.10\lib\net45\PushSharp.Windows.dll</HintPath>
+ <Private>True</Private>
+ </Reference>
+ <Reference Include="RestSharp">
+ <HintPath>..\packages\RestSharp.105.2.3\lib\net45\RestSharp.dll</HintPath>
+ </Reference>
+ <Reference Include="SendGrid.SmtpApi">
+ <HintPath>..\packages\SendGrid.SmtpApi.1.3.1\lib\net40\SendGrid.SmtpApi.dll</HintPath>
+ </Reference>
+ <Reference Include="SendGridMail">
+ <HintPath>..\packages\Sendgrid.6.1.0\lib\SendGridMail.dll</HintPath>
+ </Reference>
+ <Reference Include="System.DirectoryServices" />
+ <Reference Include="System.DirectoryServices.AccountManagement" />
+ <Reference Include="System.IdentityModel" />
+ <Reference Include="System.IdentityModel.Tokens.Jwt">
+ <HintPath>..\packages\System.IdentityModel.Tokens.Jwt.4.0.1\lib\net45\System.IdentityModel.Tokens.Jwt.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Net.Http" />
+ <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+ <SpecificVersion>False</SpecificVersion>
+ <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Web.Cors, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+ <HintPath>..\packages\Microsoft.AspNet.Cors.5.2.3\lib\net45\System.Web.Cors.dll</HintPath>
+ <Private>True</Private>
+ </Reference>
+ <Reference Include="System.Web.DynamicData" />
+ <Reference Include="System.Web.Entity" />
+ <Reference Include="System.Web.ApplicationServices" />
+ <Reference Include="System.ComponentModel.DataAnnotations" />
+ <Reference Include="System" />
+ <Reference Include="System.Data" />
+ <Reference Include="System.Core" />
+ <Reference Include="System.Data.DataSetExtensions" />
+ <Reference Include="System.Web.Extensions" />
+ <Reference Include="System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+ <SpecificVersion>False</SpecificVersion>
+ <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Web.Http.Cors, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+ <HintPath>..\packages\Microsoft.AspNet.WebApi.Cors.5.2.3\lib\net45\System.Web.Http.Cors.dll</HintPath>
+ <Private>True</Private>
+ </Reference>
+ <Reference Include="System.Web.Http.Owin">
+ <HintPath>..\packages\Microsoft.AspNet.WebApi.Owin.5.2.2\lib\net45\System.Web.Http.Owin.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+ <SpecificVersion>False</SpecificVersion>
+ <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.3\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+ <Reference Include="System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+ <SpecificVersion>False</SpecificVersion>
+ <HintPath>bin\System.Web.WebPages.Deployment.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Xml.Linq" />
+ <Reference Include="System.Drawing" />
+ <Reference Include="System.Web" />
+ <Reference Include="System.Xml" />
+ <Reference Include="System.Configuration" />
+ <Reference Include="System.Web.Services" />
+ <Reference Include="System.EnterpriseServices" />
+ <Reference Include="Thinktecture.IdentityModel.Core">
+ <HintPath>..\packages\Thinktecture.IdentityModel.Core.1.3.0\lib\net45\Thinktecture.IdentityModel.Core.dll</HintPath>
+ </Reference>
+ </ItemGroup>
+ <ItemGroup>
+ <Content Include="api\Spartan_File\Files\File.txt" />
+ <Content Include="Global.asax" />
+ <Content Include="Web.config">
+ <SubType>Designer</SubType>
+ </Content>
+ </ItemGroup>
+ <ItemGroup>
+ <Compile Include="App_Start\WebApiConfig.cs" />
+ <Compile Include="Consumer\ApiUrlManager.cs" />
+ <Compile Include="Consumer\AuthenticationToken.cs" />
+ <Compile Include="Consumer\TokenManager.cs" />
+ <Compile Include="Controllers\AccountsController.cs" />
+ <Compile Include="Controllers\BaseApiController.cs" />
+ <Compile Include="Controllers\Business_Rule_CreationController.cs" />
+ <Compile Include="Controllers\Dashboard_Config_DetailController.cs" />
+ <Compile Include="Controllers\Dashboard_EditorController.cs" />
+ <Compile Include="Controllers\Dashboard_StatusController.cs" />
+ <Compile Include="Controllers\GrneratePDFController.cs" />
+ <Compile Include="Controllers\LDAPAuthenticationController.cs" />
+ <Compile Include="Controllers\MensajesController.cs" />
+ <Compile Include="Controllers\ReportController.cs" />
+ <Compile Include="Controllers\SpartanAdditionalMenu.cs" />
+ <Compile Include="Controllers\SpartanChangePasswordAutorizationEstatusController.cs" />
+ <Compile Include="Controllers\SpartaneFileController.cs" />
+ <Compile Include="Controllers\SpartanObjectController.cs" />
+ <Compile Include="Controllers\Spartan_Attribute_Control_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Attribute_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Bitacora_SQLController.cs" />
+ <Compile Include="Controllers\Spartan_BR_ActionController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Actions_False_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Actions_True_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Action_ClassificationController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Action_Configuration_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Action_Param_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Action_ResultController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Attribute_Restrictions_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_BR_ComplexityController.cs" />
+ <Compile Include="Controllers\Spartan_BR_ConditionController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Conditions_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Condition_OperatorController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Event_Restrictions_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_BR_HistoryController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Modifications_LogController.cs" />
+ <Compile Include="Controllers\Spartan_BR_OperationController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Operation_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Operation_Restrictions_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Operator_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Peer_ReviewController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Presentation_Control_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Process_EventController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Process_Event_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Rejection_ReasonController.cs" />
+ <Compile Include="Controllers\Spartan_BR_ScopeController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Scope_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_BR_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_BR_TestingController.cs" />
+ <Compile Include="Controllers\Spartan_BR_Type_HistoryController.cs" />
+ <Compile Include="Controllers\Spartan_Business_RuleController.cs" />
+ <Compile Include="Controllers\Spartan_ChangePasswordAutorizationController.cs" />
+ <Compile Include="Controllers\Spartan_Control_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Event_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_FileController.cs" />
+ <Compile Include="Controllers\Spartan_FormatController.cs" />
+ <Compile Include="Controllers\Spartan_Format_ConfigurationController.cs" />
+ <Compile Include="Controllers\Spartan_Format_FieldController.cs" />
+ <Compile Include="Controllers\Spartan_Format_PermissionsController.cs" />
+ <Compile Include="Controllers\Spartan_Format_Permission_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Format_RelatedController.cs" />
+ <Compile Include="Controllers\Spartan_Format_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_FunctionController.cs" />
+ <Compile Include="Controllers\Spartan_Function_CharacteristicController.cs" />
+ <Compile Include="Controllers\Spartan_Function_Characteristic_ConfigController.cs" />
+ <Compile Include="Controllers\Spartan_Function_EventController.cs" />
+ <Compile Include="Controllers\Spartan_Function_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_Function_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Function_Type_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_Language_TextController.cs" />
+ <Compile Include="Controllers\Spartan_Layout_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_LoginController.cs" />
+ <Compile Include="Controllers\Spartan_Menu_OrientationController.cs" />
+ <Compile Include="Controllers\Spartan_Menu_StyleController.cs" />
+ <Compile Include="Controllers\Spartan_MetadataController.cs" />
+ <Compile Include="Controllers\Spartan_Method_ClasificationController.cs" />
+ <Compile Include="Controllers\Spartan_Method_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Method_Type_FunctionController.cs" />
+ <Compile Include="Controllers\Spartan_Method_Type_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_ModuleController.cs" />
+ <Compile Include="Controllers\Spartan_Module_ConfigController.cs" />
+ <Compile Include="Controllers\Spartan_Module_ObjectController.cs" />
+ <Compile Include="Controllers\Spartan_Module_Object_CharacteristicController.cs" />
+ <Compile Include="Controllers\Spartan_Module_Object_MethodController.cs" />
+ <Compile Include="Controllers\Spartan_Module_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_NoticeController.cs" />
+ <Compile Include="Controllers\Spartan_Notice_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_Notice_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_ObjectController.cs" />
+ <Compile Include="Controllers\Spartan_Object_CharacteristicController.cs" />
+ <Compile Include="Controllers\Spartan_Object_ConfigController.cs" />
+ <Compile Include="Controllers\Spartan_Object_MethodController.cs" />
+ <Compile Include="Controllers\Spartan_Object_Method_CharacteristicController.cs" />
+ <Compile Include="Controllers\Spartan_Object_Method_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_Object_PathController.cs" />
+ <Compile Include="Controllers\Spartan_Object_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_Object_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Order_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_QueryController.cs" />
+ <Compile Include="Controllers\Spartan_ReportController.cs" />
+ <Compile Include="Controllers\Spartan_Report_Advance_FilterController.cs" />
+ <Compile Include="Controllers\Spartan_Report_Fields_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_Report_Field_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Report_FilterController.cs" />
+ <Compile Include="Controllers\Spartan_Report_FormatController.cs" />
+ <Compile Include="Controllers\Spartan_Report_FunctionController.cs" />
+ <Compile Include="Controllers\Spartan_Report_Order_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Report_PermissionsController.cs" />
+ <Compile Include="Controllers\Spartan_Report_Permission_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Report_Presentation_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Report_Presentation_ViewController.cs" />
+ <Compile Include="Controllers\Spartan_Report_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_Security_Event_ResultController.cs" />
+ <Compile Include="Controllers\Spartan_Security_Event_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Security_LogController.cs" />
+ <Compile Include="Controllers\Spartan_Session_Event_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Session_LogController.cs" />
+ <Compile Include="Controllers\Spartan_SettingsController.cs" />
+ <Compile Include="Controllers\Spartan_SystemController.cs" />
+ <Compile Include="Controllers\Spartan_System_LanguageController.cs" />
+ <Compile Include="Controllers\Spartan_System_LayoutController.cs" />
+ <Compile Include="Controllers\Spartan_Token_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Traduction_Concept_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Traduction_DetailController.cs" />
+ <Compile Include="Controllers\Spartan_Traduction_LanguageController.cs" />
+ <Compile Include="Controllers\Spartan_Traduction_ObjectController.cs" />
+ <Compile Include="Controllers\Spartan_Traduction_Object_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Traduction_ProcessController.cs" />
+ <Compile Include="Controllers\Spartan_Traduction_Process_DataController.cs" />
+ <Compile Include="Controllers\Spartan_Traduction_Process_WorkflowController.cs" />
+ <Compile Include="Controllers\Spartan_Transaction_LogController.cs" />
+ <Compile Include="Controllers\Spartan_Transition_Event_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_Transition_Log_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_UserController.cs" />
+ <Compile Include="Controllers\Spartan_User_AlertController.cs" />
+ <Compile Include="Controllers\Spartan_User_Alert_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_User_Alert_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_User_Favorite_ListController.cs" />
+ <Compile Include="Controllers\Spartan_User_Favorite_ObjectController.cs" />
+ <Compile Include="Controllers\Spartan_User_Historical_PasswordController.cs" />
+ <Compile Include="Controllers\Spartan_User_Most_Used_ObjectController.cs" />
+ <Compile Include="Controllers\Spartan_User_Object_Method_ConfigController.cs" />
+ <Compile Include="Controllers\Spartan_User_QuicklinkController.cs" />
+ <Compile Include="Controllers\Spartan_User_RoleController.cs" />
+ <Compile Include="Controllers\Spartan_User_Role_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_User_Rule_ModuleController.cs" />
+ <Compile Include="Controllers\Spartan_User_Rule_Module_ObjectController.cs" />
+ <Compile Include="Controllers\Spartan_User_Rule_Object_FunctionController.cs" />
+ <Compile Include="Controllers\Spartan_User_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlowController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_ConditionController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_Conditions_by_StateController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_Condition_OperatorController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_Information_by_StateController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_Matrix_of_StatesController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_OperatorController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_PhasesController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_Phase_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_Phase_TypeController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_Roles_by_StateController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_StateController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_StatusController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_Type_Flow_ControlController.cs" />
+ <Compile Include="Controllers\Spartan_WorkFlow_Type_Work_DistributionController.cs" />
+ <Compile Include="Controllers\Template_Dashboard_DetailController.cs" />
+ <Compile Include="Controllers\Template_Dashboard_EditorController.cs" />
+ <Compile Include="Controllers\TokenController.cs" />
+ <Compile Include="Controllers\TTUsuariosController.cs">
+ <SubType>Code</SubType>
+ </Compile>
+ <Compile Include="Controllers\_Registro_de_UsuariosController.cs" />
+<Compile Include="Controllers\Beneficios_CualitativosController.cs" />
+<Compile Include="Controllers\Detalle_Registro_Inicial_BeneficiosController.cs" />
+<Compile Include="Controllers\Detalle_Registro_Inicial_PrioridadController.cs" />
+<Compile Include="Controllers\EstadoController.cs" />
+<Compile Include="Controllers\Estatus_de_UsuarioController.cs" />
+<Compile Include="Controllers\Estatus_Registro_InicialController.cs" />
+<Compile Include="Controllers\KPIsController.cs" />
+<Compile Include="Controllers\Medida_de_tiempoController.cs" />
+<Compile Include="Controllers\MS_KPIs_ImpactadosController.cs" />
+<Compile Include="Controllers\MunicipioController.cs" />
+<Compile Include="Controllers\PaisController.cs" />
+<Compile Include="Controllers\Prioridades_EstrategicasController.cs" />
+<Compile Include="Controllers\Registro_inicial_de_iniciativaController.cs" />
+<Compile Include="Controllers\RespuestaController.cs" />
+<!--@@INCLUDE@@-->
+ <Compile Include="Global.asax.cs">
+ <DependentUpon>Global.asax</DependentUpon>
+ </Compile>
+ <Compile Include="GlobalConfiguration.cs" />
+ <Compile Include="Helpers\ApiResponse.cs" />
+ <Compile Include="Helpers\BitacoraHelper.cs" />
+ <Compile Include="Helpers\General.cs" />
+ <Compile Include="Helpers\RestApiHelper.cs" />
+ <Compile Include="Helpers\Utility.cs" />
+ <Compile Include="Infrastructure\ApplicationDbContext.cs" />
+ <Compile Include="Infrastructure\ApplicationRole.cs" />
+ <Compile Include="Infrastructure\ApplicationRoleManager.cs" />
+ <Compile Include="Infrastructure\ApplicationUser.cs" />
+ <Compile Include="Infrastructure\ApplicationUserManager.cs" />
+ <Compile Include="Infrastructure\ClaimsAuthorizationAttribute.cs" />
+ <Compile Include="Infrastructure\ExtendedClaimsProvider.cs" />
+ <Compile Include="Infrastructure\RolesFromClaims.cs" />
+ <Compile Include="Migrations\Configuration.cs" />
+ <Compile Include="Models\AccountBindingModels.cs" />
+ <Compile Include="Models\ClaimBindingModel.cs" />
+ <Compile Include="Models\ModelFactory.cs" />
+ <Compile Include="Models\RoleBindingModels.cs" />
+ <Compile Include="Properties\AssemblyInfo.cs" />
+ <Compile Include="Providers\CustomJwtFormat.cs" />
+ <Compile Include="Providers\CustomOAuthProvider.cs" />
+ <Compile Include="Startup.cs" />
+ </ItemGroup>
+ <ItemGroup>
+ <Content Include="packages.config" />
+ <None Include="Properties\PublishProfiles\Spartane.pubxml" />
+ <None Include="Properties\PublishProfiles\WebApi.pubxml" />
+ <None Include="Web.Debug.config">
+ <DependentUpon>Web.config</DependentUpon>
+ </None>
+ <None Include="Web.Release.config">
+ <DependentUpon>Web.config</DependentUpon>
+ </None>
+ </ItemGroup>
+ <ItemGroup>
+ <Folder Include="App_Data\" />
+ <Folder Include="Certificates\" />
+ </ItemGroup>
+ <ItemGroup>
+ <ProjectReference Include="..\Spartane.Core\Spartane.Core.csproj">
+ <Project>{f56309fb-9e43-42e5-a65d-4aaa70f95c9b}</Project>
+ <Name>Spartane.Core</Name>
+ </ProjectReference>
+ <ProjectReference Include="..\Spartane.Data\Spartane.Data.csproj">
+ <Project>{63f55cc4-7b31-4195-91ee-3a5c31b9c0fc}</Project>
+ <Name>Spartane.Data</Name>
+ </ProjectReference>
+ <ProjectReference Include="..\Spartane.Services\Spartane.Services.csproj">
+ <Project>{7e1dd863-3658-407f-a096-db0276b52201}</Project>
+ <Name>Spartane.Services</Name>
+ </ProjectReference>
+ <ProjectReference Include="..\Spartane.Tools\Spartane.Tools.csproj">
+ <Project>{fbcda8c2-0a55-45a7-8977-f5bc2ab7c440}</Project>
+ <Name>Spartane.Tools</Name>
+ </ProjectReference>
+ </ItemGroup>
+ <PropertyGroup>
+ <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+ <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+ </PropertyGroup>
+ <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+ <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+ <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+ <ProjectExtensions>
+ <VisualStudio>
+ <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+ <WebProjectProperties>
+ <UseIIS>True</UseIIS>
+ <AutoAssignPort>True</AutoAssignPort>
+ <DevelopmentServerPort>57620</DevelopmentServerPort>
+ <DevelopmentServerVPath>/</DevelopmentServerVPath>
+ <IISUrl>http://localhost:9018/</IISUrl>
+ <NTLMAuthentication>False</NTLMAuthentication>
+ <UseCustomServer>False</UseCustomServer>
+ <CustomServerUrl>
+ </CustomServerUrl>
+ <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+ </WebProjectProperties>
+ </FlavorProperties>
+ </VisualStudio>
+ </ProjectExtensions>
+ <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
+ <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+ <PropertyGroup>
+ <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them. For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+ </PropertyGroup>
+ <Error Condition="!Exists('$(SolutionDir)\.nuget\NuGet.targets')" Text="$([System.String]::Format('$(ErrorText)', '$(SolutionDir)\.nuget\NuGet.targets'))" />
+ </Target>
+ <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+ Other similar extension points exist, see Microsoft.Common.targets.
+ <Target Name="BeforeBuild">
+ </Target>
+ <Target Name="AfterBuild">
+ </Target>
+ -->
+</Project>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

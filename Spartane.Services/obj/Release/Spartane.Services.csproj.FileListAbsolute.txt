@@ -1,0 +1,66 @@
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Spartane.Services.dll.config
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Spartane.Services.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Spartane.Services.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\GeneratePDF.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Spartane.Core.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Spartane.Data.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\System.Linq.Dynamic.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Autofac.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\log4net.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\SqlLinq.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Autofac.Integration.Mvc.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\System.Web.Mvc.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\EntityFramework.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\GoldParser.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\System.Web.Razor.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.Razor.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Spartane.Core.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Spartane.Data.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Autofac.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\log4net.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\Autofac.Integration.Mvc.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\System.Web.Mvc.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\EntityFramework.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\System.Web.Razor.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.Razor.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\obj\Release\Spartane.Services.csprojResolveAssemblyReference.cache
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\obj\Release\Spartane.Services.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\obj\Release\Spartane.Services.pdb
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Spartane.Services.dll.config
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Spartane.Services.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Spartane.Services.pdb
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Newtonsoft.Json.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Spartane.Core.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Spartane.Data.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\System.Linq.Dynamic.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Spartane.Core.pdb
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Spartane.Data.pdb
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\GeneratePDF.pdb
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Newtonsoft.Json.xml
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\obj\Release\Spartane.Services.csprojResolveAssemblyReference.cache
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\obj\Release\Spartane.Services.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\obj\Release\Spartane.Services.pdb
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Autofac.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\log4net.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\SqlLinq.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Autofac.Integration.Mvc.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\EntityFramework.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\GoldParser.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\System.Web.Razor.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.Razor.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Autofac.xml
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\log4net.xml
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\Autofac.Integration.Mvc.xml
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\EntityFramework.xml
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\System.Web.Razor.xml
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.Razor.xml
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.xml
+C:\Proyectos\Exámenes Internos\examenmidsromarmartinez\Application\WebApi\Spartane.Services\bin\Release\System.Web.WebPages.Deployment.xml

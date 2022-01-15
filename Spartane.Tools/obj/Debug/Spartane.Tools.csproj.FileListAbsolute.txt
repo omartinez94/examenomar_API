@@ -1,0 +1,461 @@
+D:\Work\Total Tech\CIESA\V1.0.10.2\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+D:\Work\Total Tech\CIESA\V1.0.10.2\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+D:\Work\Total Tech\CIESA\V1.0.10.2\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+D:\Work\Total Tech\CIESA\V1.0.10.2\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+D:\Work\Total Tech\CIESA\V1.0.10.2\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+D:\Work\Total Tech\CIESA\V1.0.10.2\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+D:\Work\Total Tech\CIESA\V1.0.10.2\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+D:\Work\Total Tech\CIESA\V1.0.23\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+D:\Work\Total Tech\CIESA\V1.0.23\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+D:\Work\Total Tech\CIESA\V1.0.23\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+D:\Work\Total Tech\CIESA\V1.0.23\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+D:\Work\Total Tech\CIESA\V1.0.23\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+D:\Work\Total Tech\CIESA\V1.0.23\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+D:\Work\Total Tech\CIESA\V1.0.23\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\Autofac.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\log4net.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\Autofac.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\log4net.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Tools.pdb
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\log4net.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\SqlLinq.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\GoldParser.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Kackman.RuntimeTypeLoader.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.pdb
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Core.dll.config
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.pdb
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Spartane.Data.dll.config
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\EPPlus.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\log4net.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\Autofac.Integration.Mvc.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Mvc.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\EntityFramework.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.Razor.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Razor.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csproj.AssemblyReference.cache
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csproj.CoreCompileInputs.cache
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.csproj.CopyComplete
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Tools\obj\Debug\Spartane.Tools.pdb

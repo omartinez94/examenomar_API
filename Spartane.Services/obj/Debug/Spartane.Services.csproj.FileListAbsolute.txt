@@ -1,0 +1,252 @@
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\obj\Debug\Spartane.Services.csprojResolveAssemblyReference.cache
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll.config
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Spartane.Services.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Spartane.Core.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Spartane.Data.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\System.Linq.Dynamic.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Autofac.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\log4net.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\SqlLinq.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\System.Web.Mvc.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\EntityFramework.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\GoldParser.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Spartane.Core.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Spartane.Data.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Autofac.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\log4net.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\System.Web.Mvc.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\EntityFramework.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\obj\Debug\Spartane.Services.dll
+C:\Proyectos\SPARTANE\Template\WebApi\Spartane.Services\obj\Debug\Spartane.Services.pdb
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\obj\Debug\Spartane.Services.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\obj\Debug\Spartane.Services.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll.config
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Services.pdb
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Core.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Data.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\System.Linq.Dynamic.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\log4net.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\SqlLinq.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.Mvc.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\EntityFramework.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\GoldParser.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Core.pdb
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Data.pdb
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\log4net.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.Mvc.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\EntityFramework.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\obj\Debug\Spartane.Services.pdb
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Newtonsoft.Json.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll.config
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Spartane.Services.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Spartane.Core.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Spartane.Data.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\System.Linq.Dynamic.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Autofac.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\log4net.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\SqlLinq.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\System.Web.Mvc.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\EntityFramework.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\GoldParser.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Spartane.Core.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Spartane.Data.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Autofac.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\log4net.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\System.Web.Mvc.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\EntityFramework.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\obj\Debug\Spartane.Services.csprojResolveAssemblyReference.cache
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\obj\Debug\Spartane.Services.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\Spartane.Services\obj\Debug\Spartane.Services.pdb
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\GeneratePDF.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\wnvhtmlconvert.dll
+C:\SpartaneTemplate\MVC\WebApi\Spartane.Services\bin\Debug\GeneratePDF.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\obj\Debug\Spartane.Services.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\obj\Debug\Spartane.Services.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Spartane.Services.dll.config
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Spartane.Services.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Spartane.Services.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Newtonsoft.Json.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Spartane.Core.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Spartane.Data.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\System.Linq.Dynamic.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Autofac.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\log4net.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\SqlLinq.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\System.Web.Mvc.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\EntityFramework.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\wnvhtmlconvert.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\GoldParser.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\System.Web.Razor.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\System.Web.WebPages.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Spartane.Core.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Spartane.Data.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\GeneratePDF.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Newtonsoft.Json.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Autofac.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\log4net.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\System.Web.Mvc.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\EntityFramework.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\System.Web.Razor.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\System.Web.WebPages.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\Spartane.Services\obj\Debug\Spartane.Services.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\obj\Debug\Spartane.Services.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll.config
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Services.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\GeneratePDF.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Newtonsoft.Json.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Core.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Data.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\System.Linq.Dynamic.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\log4net.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\SqlLinq.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.Mvc.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\EntityFramework.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\wnvhtmlconvert.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\GoldParser.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Core.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Data.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\GeneratePDF.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Newtonsoft.Json.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\log4net.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.Mvc.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\EntityFramework.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\obj\Debug\Spartane.Services.dll
+C:\SpartaneTemplateTest\MVC\WebApi\Spartane.Services\obj\Debug\Spartane.Services.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll.config
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Services.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\GeneratePDF.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Newtonsoft.Json.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Core.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Data.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\System.Linq.Dynamic.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\log4net.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\SqlLinq.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\EntityFramework.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\wnvhtmlconvert.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\GoldParser.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Core.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Spartane.Data.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\GeneratePDF.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Newtonsoft.Json.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\log4net.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\EntityFramework.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\obj\Debug\Spartane.Services.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\obj\Debug\Spartane.Services.dll
+C:\SpartaneTemplatev2\MVC\WebApi\Spartane.Services\obj\Debug\Spartane.Services.pdb
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll.config
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Spartane.Services.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Spartane.Services.pdb
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Newtonsoft.Json.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Spartane.Core.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Spartane.Data.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\System.Linq.Dynamic.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\log4net.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Autofac.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\SqlLinq.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\System.Web.Mvc.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\EntityFramework.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\wnvhtmlconvert.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\GoldParser.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Kackman.RuntimeTypeLoader.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Spartane.Core.pdb
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Spartane.Core.dll.config
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Spartane.Data.pdb
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Spartane.Data.dll.config
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\GeneratePDF.pdb
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Newtonsoft.Json.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\log4net.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Autofac.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\Autofac.Integration.Mvc.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\System.Web.Mvc.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\EntityFramework.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\System.Web.Razor.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Razor.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\obj\Debug\Spartane.Services.csproj.AssemblyReference.cache
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\obj\Debug\Spartane.Services.csproj.CoreCompileInputs.cache
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\obj\Debug\Spartane.Services.csproj.CopyComplete
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\obj\Debug\Spartane.Services.dll
+D:\TotalTech\Mid SR\Application\WebApi\Spartane.Services\obj\Debug\Spartane.Services.pdb

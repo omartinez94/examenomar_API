@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+ <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+ <PropertyGroup>
+ <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+ <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+ <ProjectGuid>{63F55CC4-7B31-4195-91EE-3A5C31B9C0FC}</ProjectGuid>
+ <OutputType>Library</OutputType>
+ <AppDesignerFolder>Properties</AppDesignerFolder>
+ <RootNamespace>Spartane.Data</RootNamespace>
+ <AssemblyName>Spartane.Data</AssemblyName>
+ <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+ <FileAlignment>512</FileAlignment>
+ <SccProjectName>SAK</SccProjectName>
+ <SccLocalPath>SAK</SccLocalPath>
+ <SccAuxPath>SAK</SccAuxPath>
+ <SccProvider>SAK</SccProvider>
+ <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+ <RestorePackages>true</RestorePackages>
+ </PropertyGroup>
+ <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+ <DebugSymbols>true</DebugSymbols>
+ <DebugType>full</DebugType>
+ <Optimize>false</Optimize>
+ <OutputPath>bin\Debug\</OutputPath>
+ <DefineConstants>DEBUG;TRACE</DefineConstants>
+ <ErrorReport>prompt</ErrorReport>
+ <WarningLevel>4</WarningLevel>
+ </PropertyGroup>
+ <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+ <DebugType>pdbonly</DebugType>
+ <Optimize>true</Optimize>
+ <OutputPath>bin\Release\</OutputPath>
+ <DefineConstants>TRACE</DefineConstants>
+ <ErrorReport>prompt</ErrorReport>
+ <WarningLevel>4</WarningLevel>
+ </PropertyGroup>
+ <ItemGroup>
+ <Reference Include="EntityFramework">
+ <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
+ </Reference>
+ <Reference Include="EntityFramework.SqlServer">
+ <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+ </Reference>
+ <Reference Include="System" />
+ <Reference Include="System.ComponentModel.DataAnnotations" />
+ <Reference Include="System.Core" />
+ <Reference Include="System.Runtime.Serialization" />
+ <Reference Include="System.Security" />
+ <Reference Include="System.Xml.Linq" />
+ <Reference Include="System.Data.DataSetExtensions" />
+ <Reference Include="Microsoft.CSharp" />
+ <Reference Include="System.Data" />
+ <Reference Include="System.Xml" />
+ </ItemGroup>
+ <ItemGroup>
+ <Compile Include="EF\EFDataProviderManager.cs" />
+ <Compile Include="EF\EFRepository.cs" />
+ <Compile Include="EF\IDbContext.cs" />
+ <Compile Include="EF\Mapping\Business_Rule_Creation\Business_Rule_CreationMap.cs" />
+ <Compile Include="EF\Mapping\Dashboard_Config_Detail\Dashboard_Config_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Dashboard_Editor\Dashboard_EditorMap.cs" />
+ <Compile Include="EF\Mapping\Dashboard_Status\Dashboard_StatusMap.cs" />
+ <Compile Include="EF\Mapping\SpartanChangePasswordAutorizationEstatus\SpartanChangePasswordAutorizationEstatusMap.cs" />
+ <Compile Include="EF\Mapping\SpartanObject\SpartanObjectMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Additional_Menu\Spartan_Additional_Menu.cs" />
+ <Compile Include="EF\Mapping\Spartan_Attribute_Control_Type\Spartan_Attribute_Control_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Attribute_Type\Spartan_Attribute_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Bitacora_SQL\Spartan_Bitacora_SQLMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Actions_False_Detail\Spartan_BR_Actions_False_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Actions_True_Detail\Spartan_BR_Actions_True_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Action\Spartan_BR_ActionMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Action_Classification\Spartan_BR_Action_ClassificationMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Action_Configuration_Detail\Spartan_BR_Action_Configuration_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Action_Param_Type\Spartan_BR_Action_Param_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Action_Result\Spartan_BR_Action_ResultMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Attribute_Restrictions_Detail\Spartan_BR_Attribute_Restrictions_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Complexity\Spartan_BR_ComplexityMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Conditions_Detail\Spartan_BR_Conditions_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Condition\Spartan_BR_ConditionMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Condition_Operator\Spartan_BR_Condition_OperatorMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Event_Restrictions_Detail\Spartan_BR_Event_Restrictions_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_History\Spartan_BR_HistoryMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Modifications_Log\Spartan_BR_Modifications_LogMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Operation\Spartan_BR_OperationMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Operation_Detail\Spartan_BR_Operation_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Operation_Restrictions_Detail\Spartan_BR_Operation_Restrictions_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Operator_Type\Spartan_BR_Operator_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Peer_Review\Spartan_BR_Peer_ReviewMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Presentation_Control_Type\Spartan_BR_Presentation_Control_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Process_Event\Spartan_BR_Process_EventMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Process_Event_Detail\Spartan_BR_Process_Event_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Rejection_Reason\Spartan_BR_Rejection_ReasonMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Scope\Spartan_BR_ScopeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Scope_Detail\Spartan_BR_Scope_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Status\Spartan_BR_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Testing\Spartan_BR_TestingMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_BR_Type_History\Spartan_BR_Type_HistoryMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Business_Rule\Spartan_Business_RuleMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_ChangePasswordAutorization\Spartan_ChangePasswordAutorizationMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Control_Type\Spartan_Control_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Event_Type\Spartan_Event_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartane_File\Spartane_FileMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Format\Spartan_FormatMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Format_Configuration\Spartan_Format_ConfigurationMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Format_Field\Spartan_Format_FieldMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Format_Permissions\Spartan_Format_PermissionsMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Format_Permission_Type\Spartan_Format_Permission_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Format_Type\Spartan_Format_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Function\Spartan_FunctionMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Function_Characteristic\Spartan_Function_CharacteristicMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Function_Characteristic_Config\Spartan_Function_Characteristic_ConfigMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Function_Event\Spartan_Function_EventMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Function_Status\Spartan_Function_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Function_Type\Spartan_Function_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Function_Type_Status\Spartan_Function_Type_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Language_Text\Spartan_Language_TextMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Layout_Status\Spartan_Layout_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Menu_Orientation\Spartan_Menu_OrientationMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Menu_Style\Spartan_Menu_StyleMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Metadata\Spartan_MetadataMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Method_Clasification\Spartan_Method_ClasificationMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Method_Type\Spartan_Method_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Method_Type_Function\Spartan_Method_Type_FunctionMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Method_Type_Status\Spartan_Method_Type_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Module\Spartan_ModuleMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Module_Config\Spartan_Module_ConfigMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Module_Object\Spartan_Module_ObjectMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Module_Object_Characteristic\Spartan_Module_Object_CharacteristicMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Module_Object_Method\Spartan_Module_Object_MethodMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Module_Status\Spartan_Module_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Notice\Spartan_NoticeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Notice_Status\Spartan_Notice_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Notice_Type\Spartan_Notice_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Object\Spartan_ObjectMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Object_Characteristic\Spartan_Object_CharacteristicMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Object_Config\Spartan_Object_ConfigMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Object_Method\Spartan_Object_MethodMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Object_Method_Characteristic\Spartan_Object_Method_CharacteristicMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Object_Method_Status\Spartan_Object_Method_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Object_Path\Spartan_Object_PathMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Object_Status\Spartan_Object_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Object_Type\Spartan_Object_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Order_Type\Spartan_Order_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report\Spartan_ReportMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report_Advance_Filter\Spartan_Report_Advance_FilterMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report_Fields_Detail\Spartan_Report_Fields_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report_Field_Type\Spartan_Report_Field_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report_Format\Spartan_Report_FormatMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report_Function\Spartan_Report_FunctionMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report_Order_Type\Spartan_Report_Order_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report_Permissions\Spartan_Report_PermissionsMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report_Permission_Type\Spartan_Report_Permission_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report_Presentation_Type\Spartan_Report_Presentation_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report_Presentation_View\Spartan_Report_Presentation_ViewMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Report_Status\Spartan_Report_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Security_Event_Result\Spartan_Security_Event_ResultMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Security_Event_Type\Spartan_Security_Event_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Security_Log\Spartan_Security_LogMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Session_Event_Type\Spartan_Session_Event_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Session_Log\Spartan_Session_LogMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_System\Spartan_SystemMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_System_Language\Spartan_System_LanguageMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_System_Layout\Spartan_System_LayoutMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Token_Type\Spartan_Token_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Traduction_Concept_Type\Spartan_Traduction_Concept_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Traduction_Detail\Spartan_Traduction_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Traduction_Language\Spartan_Traduction_LanguageMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Traduction_Object\Spartan_Traduction_ObjectMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Traduction_Object_Type\Spartan_Traduction_Object_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Traduction_Process\Spartan_Traduction_ProcessMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Traduction_Process_Data\Spartan_Traduction_Process_DataMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Traduction_Process_Workflow\Spartan_Traduction_Process_WorkflowMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Transaction_Log\Spartan_Transaction_LogMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Transition_Event_Type\Spartan_Transition_Event_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_Transition_Log_Type\Spartan_Transition_Log_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User\Spartan_UserMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Alert\Spartan_User_AlertMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Alert_Status\Spartan_User_Alert_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Alert_Type\Spartan_User_Alert_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Favorite_List\Spartan_User_Favorite_ListMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Favorite_Object\Spartan_User_Favorite_ObjectMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Historical_Password\Spartan_User_Historical_PasswordMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Most_Used_Object\Spartan_User_Most_Used_ObjectMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Object_Method_Config\Spartan_User_Object_Method_ConfigMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Quicklink\Spartan_User_QuicklinkMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Role\Spartan_User_RoleMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Role_Status\Spartan_User_Role_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Rule_Module\Spartan_User_Rule_ModuleMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Rule_Module_Object\Spartan_User_Rule_Module_ObjectMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Rule_Object_Function\Spartan_User_Rule_Object_FunctionMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_User_Status\Spartan_User_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow\Spartan_WorkFlowMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Conditions_by_State\Spartan_WorkFlow_Conditions_by_StateMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Condition\Spartan_WorkFlow_ConditionMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Condition_Operator\Spartan_WorkFlow_Condition_OperatorMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Information_by_State\Spartan_WorkFlow_Information_by_StateMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Matrix_of_States\Spartan_WorkFlow_Matrix_of_StatesMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Operator\Spartan_WorkFlow_OperatorMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Phases\Spartan_WorkFlow_PhasesMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Phase_Status\Spartan_WorkFlow_Phase_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Phase_Type\Spartan_WorkFlow_Phase_TypeMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Roles_by_State\Spartan_WorkFlow_Roles_by_StateMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_State\Spartan_WorkFlow_StateMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Status\Spartan_WorkFlow_StatusMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Type_Flow_Control\Spartan_WorkFlow_Type_Flow_ControlMap.cs" />
+ <Compile Include="EF\Mapping\Spartan_WorkFlow_Type_Work_Distribution\Spartan_WorkFlow_Type_Work_DistributionMap.cs" />
+ <Compile Include="EF\Mapping\Template_Dashboard_Detail\Template_Dashboard_DetailMap.cs" />
+ <Compile Include="EF\Mapping\Template_Dashboard_Editor\Template_Dashboard_EditorMap.cs" />
+ <Compile Include="EF\SQLServerDataProvider.cs" />
+ <Compile Include="EF\TTObjectContext.cs" />
+ <Compile Include="Properties\AssemblyInfo.cs" />
+ <Compile Include="EF\Mapping\_Registro_de_Usuarios\_Registro_de_UsuariosMap.cs" />
+<Compile Include="EF\Mapping\Beneficios_Cualitativos\Beneficios_CualitativosMap.cs" />
+<Compile Include="EF\Mapping\Detalle_Registro_Inicial_Beneficios\Detalle_Registro_Inicial_BeneficiosMap.cs" />
+<Compile Include="EF\Mapping\Detalle_Registro_Inicial_Prioridad\Detalle_Registro_Inicial_PrioridadMap.cs" />
+<Compile Include="EF\Mapping\Estado\EstadoMap.cs" />
+<Compile Include="EF\Mapping\Estatus_de_Usuario\Estatus_de_UsuarioMap.cs" />
+<Compile Include="EF\Mapping\Estatus_Registro_Inicial\Estatus_Registro_InicialMap.cs" />
+<Compile Include="EF\Mapping\KPIs\KPIsMap.cs" />
+<Compile Include="EF\Mapping\Medida_de_tiempo\Medida_de_tiempoMap.cs" />
+<Compile Include="EF\Mapping\MS_KPIs_Impactados\MS_KPIs_ImpactadosMap.cs" />
+<Compile Include="EF\Mapping\Municipio\MunicipioMap.cs" />
+<Compile Include="EF\Mapping\Pais\PaisMap.cs" />
+<Compile Include="EF\Mapping\Prioridades_Estrategicas\Prioridades_EstrategicasMap.cs" />
+<Compile Include="EF\Mapping\Registro_inicial_de_iniciativa\Registro_inicial_de_iniciativaMap.cs" />
+<Compile Include="EF\Mapping\Respuesta\RespuestaMap.cs" />
+<!--@@INCLUDE@@-->
+ </ItemGroup>
+ <ItemGroup>
+ <None Include="app.config" />
+ <None Include="ClassDiagram1.cd" />
+ <None Include="EF\App.config" />
+ <None Include="packages.config" />
+ </ItemGroup>
+ <ItemGroup>
+ <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+ </ItemGroup>
+ <ItemGroup>
+ <Folder Include="Models\" />
+ </ItemGroup>
+ <ItemGroup>
+ <ProjectReference Include="..\Spartane.Core\Spartane.Core.csproj">
+ <Project>{f56309fb-9e43-42e5-a65d-4aaa70f95c9b}</Project>
+ <Name>Spartane.Core</Name>
+ </ProjectReference>
+ </ItemGroup>
+ <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+ <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
+ <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+ <PropertyGroup>
+ <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them. For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+ </PropertyGroup>
+ <Error Condition="!Exists('$(SolutionDir)\.nuget\NuGet.targets')" Text="$([System.String]::Format('$(ErrorText)', '$(SolutionDir)\.nuget\NuGet.targets'))" />
+ </Target>
+ <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+ Other similar extension points exist, see Microsoft.Common.targets.
+ <Target Name="BeforeBuild">
+ </Target>
+ <Target Name="AfterBuild">
+ </Target>
+ -->
+</Project>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

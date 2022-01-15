@@ -1,0 +1,1772 @@
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\WSP\STGeneticsv1_0_20\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\Secretaria de Educacion\edulinkv1_0_5\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_10\Application\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_18\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_19\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_22\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_23\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Users\tt-pro0004\Desktop\Ciesa\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_26\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_30\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_31\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_32\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_33\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\EPPlus.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\EPPlus.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\CIESA\CiesaInventariov1_0_36\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\SPARTANE\Template\WebApi\oAuth.WebApi\bin\GeneratePDF.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\GeneratePDF.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\GeneratePDF.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\SPARTANE\Template\FORMATOS\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\wnvhtmlconvert.dll
+C:\SpartaneTemplate\MVC\WebApi\oAuth.WebApi\bin\GeneratePDF.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Autofac.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\EntityFramework.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Owin.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\RestSharp.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\SendGridMail.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Spartane.Core.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Spartane.Data.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Spartane.Services.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.Http.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\log4net.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\SqlLinq.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\GeneratePDF.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\GoldParser.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\wnvhtmlconvert.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Autofac.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\EntityFramework.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\RestSharp.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.Http.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\log4net.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\GeneratePDF.pdb
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.Razor.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.WebPages.xml
+C:\SpartaneTemplateWF\WebApiWorkflow\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\GeneratePDF.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\wnvhtmlconvert.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\bin\GeneratePDF.pdb
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\SpartaneTemplateTest\MVC\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csprojResolveAssemblyReference.cache
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Autofac.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Owin.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\PushSharp.Amazon.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\PushSharp.Apple.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\PushSharp.Blackberry.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\PushSharp.Core.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\PushSharp.Firefox.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\PushSharp.Google.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\PushSharp.Windows.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\RestSharp.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\log4net.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\GeneratePDF.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\GoldParser.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\wnvhtmlconvert.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Autofac.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\RestSharp.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\log4net.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\GeneratePDF.pdb
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\FirebaseNet.dll
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\FirebaseNet.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\SpartaneTemplatev2\MVC\WebApi\oAuth.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll.config
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\oAuth.WebApi.pdb
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Autofac.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\EntityFramework.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Owin.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\PushSharp.Amazon.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\PushSharp.Apple.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\PushSharp.Blackberry.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\PushSharp.Core.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\PushSharp.Firefox.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\PushSharp.Google.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\PushSharp.Windows.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\RestSharp.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\SendGrid.SmtpApi.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\SendGridMail.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.Cors.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\log4net.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\SqlLinq.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Linq.Dynamic.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\GeneratePDF.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\GoldParser.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Kackman.RuntimeTypeLoader.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\wnvhtmlconvert.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.pdb
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Spartane.Core.dll.config
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.pdb
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Spartane.Data.dll.config
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.pdb
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Spartane.Services.dll.config
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Spartane.Tools.pdb
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Autofac.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Autofac.Configuration.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.WebApi.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\EntityFramework.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\EntityFramework.SqlServer.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\FirebaseNet.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Cors.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Newtonsoft.Json.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\RestSharp.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Net.Http.Formatting.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Cors.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.Owin.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.Http.WebHost.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\log4net.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\Autofac.Integration.Mvc.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\GeneratePDF.pdb
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.Razor.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\System.Web.WebPages.xml
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csproj.AssemblyReference.cache
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csproj.CoreCompileInputs.cache
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.csproj.CopyComplete
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.dll
+D:\TotalTech\Mid SR\Application\WebApi\oAuth.WebApi\obj\Debug\oAuth.WebApi.pdb
