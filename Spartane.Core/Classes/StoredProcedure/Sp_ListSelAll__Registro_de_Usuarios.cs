@@ -27,6 +27,7 @@ namespace Spartane.Core.Classes.StoredProcedure
         public string _Registro_de_Usuarios_Usuario_ID_Name { get; set; }
         public int? _Registro_de_Usuarios_Estatus { get; set; }
         public string _Registro_de_Usuarios_Estatus_Descripcion { get; set; }
+        public string _Registro_de_Usuarios_Detalles { get; set; }
         public int? _Registro_de_Usuarios_Pais { get; set; }
         public string _Registro_de_Usuarios_Pais_Nombre { get; set; }
         public int? _Registro_de_Usuarios_Estado { get; set; }

@@ -189,6 +189,7 @@ result.Usuario_ID = entity.Usuario_ID;
 result.Usuario_ID_Spartan_User = entity.Usuario_ID_Spartan_User;
 result.Estatus = entity.Estatus;
 result.Estatus_Estatus_de_Usuario = entity.Estatus_Estatus_de_Usuario;
+            result.Detalles = entity.Detalles;
 
             return Request.CreateResponse(HttpStatusCode.OK, result, Configuration.Formatters.JsonFormatter);
         }

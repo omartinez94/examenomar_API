@@ -39,6 +39,7 @@ namespace Spartane.Core.Classes._Registro_de_Usuarios
         public string Celular { get; set; }
         public int? Usuario_ID { get; set; }
         public int? Estatus { get; set; }
+        public string Detalles { get; set; }
         public int? Pais { get; set; }
         public int? Estado { get; set; }
         public int? Municipio { get; set; }

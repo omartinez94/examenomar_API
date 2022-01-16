@@ -234,6 +234,7 @@ namespace Spartane.Services._Registro_de_Usuarios
                     ,Usuario_ID_Spartan_User = new Core.Classes.Spartan_User.Spartan_User() { Id_User = m._Registro_de_Usuarios_Usuario_ID.GetValueOrDefault(), Name = m._Registro_de_Usuarios_Usuario_ID_Name }
                     ,Estatus = m._Registro_de_Usuarios_Estatus
                     ,Estatus_Estatus_de_Usuario = new Core.Classes.Estatus_de_Usuario.Estatus_de_Usuario() { Clave = m._Registro_de_Usuarios_Estatus.GetValueOrDefault(), Descripcion = m._Registro_de_Usuarios_Estatus_Descripcion }
+                    ,Detalles = m._Registro_de_Usuarios_Detalles
                     ,Pais = m._Registro_de_Usuarios_Pais
                     ,Pais_Pais = new Core.Classes.Pais.Pais() { Clave = m._Registro_de_Usuarios_Pais.GetValueOrDefault(), Nombre = m._Registro_de_Usuarios_Pais_Nombre }
                     ,Estado = m._Registro_de_Usuarios_Estado
